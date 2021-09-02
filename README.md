@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AllwinJohnson
-- 💻 I'm a Mobile app developer, I mainly use Andorid for native development and Flutter
+- 💻 I'm a Mobile app developer, I mainly use Android for native development and Flutter
 - 👀 I’m interested in Android, Flutter, Python and Cloud management
 - 🛣️ Currently on the path to a Full Stack developer
 - 🌱 I’m currently improving my skills on Flutter and learning Python
