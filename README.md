@@ -4,7 +4,7 @@
 - 🛣️ Currently on the path to a Full Stack developer
 - 🌱 I’m currently improving my skills on Flutter and learning Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me? mail to allwin@codesleap.com
+- 📫 How to reach me? mail to ninturha@gmail.com
 
 <!---
 AllwinJohnson/AllwinJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
