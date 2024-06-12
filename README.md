@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AllwinJohnson
-- 💻 I'm a Mobile app developer, I mainly use Android for native development and Flutter
-- 👀 I’m interested in Android, Flutter, Python and Cloud management
-- 🛣️ Currently on the path to a Full Stack developer
-- 🌱 I’m currently improving my skills on Flutter and learning Python
-- 💞️ I’m looking to collaborate on Python
+- 💻 I'm a Mobile app developer, I mainly use Android for native development, Flutter and KMP
+- 👀 I’m interested in Android, Compose, KMP, Flutter
+- 🌱 I’m currently improving my skills on KMP, Koltin coroutine broadly
+- 💞️ I’m looking to collaborate on KMP
 - 📫 How to reach me? mail to ninturha@gmail.com
 
 <!---
